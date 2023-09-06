@@ -17,7 +17,7 @@ class Solution
         //create an outer loop to iterate from last to first;
         //create an inner loop to check the adjecent pair and swap
         for(int i=n-1;i>=0;i--){
-            
+            int isSwapped = 0;
             for(int j=0;j<=i-1;j++){
                 
                 if(arr[j]>arr[j+1]){
@@ -25,9 +25,11 @@ class Solution
                     int temp = arr[j+1];
                     arr[j+1]=arr[j];
                     arr[j]=temp;
-                    
+                    isSwapped = 1;
                 }
+                
             }
+            if(isSwapped==0) break;
         }
         
     }
