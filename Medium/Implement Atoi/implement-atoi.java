@@ -25,7 +25,6 @@ class aToi
 // } Driver Code Ends
 
 
-//User function template for JAVA
 
 /*You are required to complete this method */
 class Solution {
