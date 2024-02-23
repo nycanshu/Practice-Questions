@@ -68,10 +68,11 @@ class Solution
         // code here 
         
         Node newNode = new Node(x);
+         if(head==null) return newNode;
         newNode.next = head;
-        head = newNode;
+        //head = newNode;
         
-        return head;
+        return newNode;
         
     }
     
