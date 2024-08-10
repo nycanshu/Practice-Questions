@@ -32,27 +32,31 @@ class Node{
 class Solution {
     // Function to rotate a linked list.
     public Node rotate(Node head, int k) {
-        // add code here
-        int count = 0;
-        Node start = head;
-        Node prev = head;
-        while(count < k){
-            prev = head;
-            head = head.next;
-            count++;
+        
+        Node last=head;
+        int nodes=1;
+        
+        while(last.next!=null)
+        {
+          last=last.next;
+          nodes++;
         }
-        if(head == null)
-            return start;
-        prev.next = null;
+       
         
-        Node newHead = head;
-        
-        while(head.next != null){
-            head = head.next;
+        if(nodes==k)
+            return head;
+            
+        while(k-->0)
+        {
+            last.next=head;
+            last=last.next;
+            head=head.next;
         }
-        head.next = start;
         
-        return newHead;
+        last.next=null;
+        
+        return head;
+        
     }
 }
 
