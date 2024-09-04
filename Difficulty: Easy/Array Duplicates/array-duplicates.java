@@ -48,34 +48,26 @@ class GFG {
 
 class Solution {
     public static ArrayList<Integer> duplicates(int[] arr) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        HashMap<Integer,Integer> hm = new HashMap<>();
+        // code here
+        ArrayList<Integer> res = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
+        HashSet<Integer> duplicates = new HashSet<>();
         
-        for(int i=0;i<arr.length;i++){
-            int curr = arr[i];
-            
-            if(hm.containsKey(curr)){
-                int prevFreq = hm.get(curr);
-                hm.put(curr,prevFreq+1);
+        for(int val : arr) {
+            if(set.contains(val)) {
+                duplicates.add(val);
             } else {
-                hm.put(curr,1);
+                set.add(val);
             }
         }
         
-        for(Map.Entry<Integer,Integer> entry : hm.entrySet()){
-            int currEle = entry.getKey();
-            int currFreq = entry.getValue();
-            
-            if(currFreq > 1){
-                ans.add(currEle);
-            }
+        if(duplicates.isEmpty()) {
+            res.add(-1);
+        } else {
+            res.addAll(duplicates);
+            Collections.sort(res);
         }
         
-        if(ans.size() == 0){
-            ans.add(-1);
-            return ans;
-        }
-        Collections.sort(ans);
-        return ans;
+        return res;
     }
 }
