@@ -30,6 +30,8 @@ class GFG {
 // } Driver Code Ends
 
 
+
+
 // User function Template for Java
 
 class Solution {
@@ -37,18 +39,24 @@ class Solution {
         int n = nums.length;
         long[] ans = new long[n];
         
+        long[] left = new long[n];
+        long[] right = new long[n];
+        
         // product of all numbers to the left of each element
-        long leftProd = 1;
-        for(int i=0;i<n;i++){
-            ans[i] = leftProd;
-            leftProd *= nums[i];
+        left[0] = 1;
+        for(int i=1;i<n;i++){
+            left[i] = left[i-1]*nums[i-1];
         }
         
         // product of all numbers to the right of each element
-        long rightProd = 1;
-        for(int i=n-1;i>=0;i--){
-            ans[i] *= rightProd;
-            rightProd *= nums[i];
+        right[n-1] = 1;
+        
+        for(int i=n-2;i>=0;i--){
+           right[i] = right[i+1] * nums[i+1];
+        }
+        
+        for(int i=0;i<n;i++){
+            ans[i] = left[i]*right[i];
         }
         
         return ans;
