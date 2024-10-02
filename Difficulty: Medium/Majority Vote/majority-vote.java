@@ -28,6 +28,8 @@ public class Main {
 // } Driver Code Ends
 
 
+
+
 class Solution {
     // Function to find the majority elements in the array
     public List<Integer> findMajority(List<Integer> nums) {
