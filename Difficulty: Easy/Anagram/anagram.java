@@ -29,25 +29,33 @@ class GFG {
 
 
 class Solution {
-    // Function is to check whether two strings are anagram of each other or not.
+    // Function to check whether two strings are anagrams of each other or not.
     public static boolean areAnagrams(String s1, String s2) {
-
-        // Your code here
-        if(s1.length() != s2.length()){
+        // If lengths are different, they cannot be anagrams
+        if (s1.length() != s2.length()) {
             return false;
         }
-        char[] s1Array = s1.toCharArray();
-        char[] s2Array = s2.toCharArray();
-        
-        
-        Arrays.sort(s1Array);
-        Arrays.sort(s2Array);
-        
-        for(int i=0;i<s1Array.length;i++){
-            if(s1Array[i]!=s2Array[i]){
-                return false;
+
+        // Create a frequency map for characters
+        HashMap<Character, Integer> charCount = new HashMap<>();
+
+        // Count characters in the first string
+        for (char c : s1.toCharArray()) {
+            charCount.put(c, charCount.getOrDefault(c, 0) + 1);
+        }
+
+        // Decrease the count for characters in the second string
+        for (char c : s2.toCharArray()) {
+            if (!charCount.containsKey(c)) {
+                return false; // Character not found in first string
+            }
+            charCount.put(c, charCount.get(c) - 1);
+            if (charCount.get(c) < 0) {
+                return false; // More occurrences in second string
             }
         }
+
+        // If all counts are zero, they are anagrams
         return true;
     }
 }
