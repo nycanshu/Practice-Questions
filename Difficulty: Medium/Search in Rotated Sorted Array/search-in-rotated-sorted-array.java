@@ -29,11 +29,15 @@ public class GFG {
             int key = Integer.parseInt(in.readLine().trim());
 
             out.println(new Solution().search(arr, key));
+
+            out.println("~");
         }
         out.close();
     }
 }
 // } Driver Code Ends
+
+
 
 
 // User function Template for Java
