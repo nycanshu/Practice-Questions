@@ -22,9 +22,11 @@ public class Main {
                 arr[i] = Integer.parseInt(tokens[i]);
             }
 
-            boolean ans = new Solution().hasArrayTwoCandidates(arr, x);
+            boolean ans = new Solution().twoSum(arr, x);
             System.out.println(ans ? "true" : "false");
             // System.out.println("~");
+
+            System.out.println("~");
         }
     }
 }
@@ -34,8 +36,8 @@ public class Main {
 // User function Template for Java
 
 class Solution {
-    boolean hasArrayTwoCandidates(int arr[], int x) {
-        // code here
+    boolean twoSum(int arr[], int x) {
+          // code here
         HashSet<Integer> set = new HashSet<>();
         for(int i=0;i<arr.length;i++){
             int target = x - arr[i];
