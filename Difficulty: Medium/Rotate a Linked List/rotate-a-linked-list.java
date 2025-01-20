@@ -30,35 +30,33 @@ class Node{
 */
 
 class Solution {
-    // Function to rotate a linked list.
     public Node rotate(Node head, int k) {
-        
-        Node last=head;
-        int nodes=1;
-        
-        while(last.next!=null)
-        {
-          last=last.next;
-          nodes++;
+        // add code here
+        Node temp = head;
+        int size = 1;
+        while(temp.next != null){
+            size ++;
+            temp = temp.next;
         }
-       
         
-        if(nodes==k)
+        k = k%size;
+        if(k == 0){
             return head;
-            
-        while(k-->0)
-        {
-            last.next=head;
-            last=last.next;
-            head=head.next;
         }
         
-        last.next=null;
+        temp.next = head;
         
-        return head;
+        Node newTail = head;
+        for(int i = 1; i < k; i++){
+            newTail = newTail.next;
+        }
         
+        Node newHead = newTail.next;
+        newTail.next = null;
+        return newHead;
     }
 }
+
 
 
 //{ Driver Code Starts.
@@ -101,6 +99,8 @@ public class GFG {
             Solution ob = new Solution();
             head = ob.rotate(head, k);
             printList(head);
+
+            System.out.println("~");
         }
     }
 }
