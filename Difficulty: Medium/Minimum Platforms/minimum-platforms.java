@@ -1,70 +1,68 @@
 //{ Driver Code Starts
-//Initial Template for Java
-
-import java.util.*;
 import java.io.*;
-import java.lang.*;
+import java.util.*;
 
-class GFG
-{
-    public static void main(String args[])throws IOException
-    {
-        BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
-        int t = Integer.parseInt(read.readLine());
-        
-        while(t-- > 0)
-        {
-            String str[] = read.readLine().trim().split(" ");
-            int n = Integer.parseInt(str[0]);
-            
-            int arr[] = new int[n];
-            int dep[] = new int[n];
-            
-            str = read.readLine().trim().split(" ");
-            for(int i = 0; i < n; i++)
-              arr[i] = Integer.parseInt(str[i]);
-            str = read.readLine().trim().split(" ");
-            for(int i = 0; i < n; i++)
-                dep[i] = Integer.parseInt(str[i]);
-                
-            System.out.println(new Solution().findPlatform(arr, dep, n));
+class Main {
+    public static void main(String args[]) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        int t = Integer.parseInt(br.readLine().trim());
+        while (t-- > 0) {
+            // First array input (arr)
+            String[] str1 = br.readLine().trim().split(
+                " "); // Read the first line and split by spaces
+            int n = str1.length;
+            int[] arr = new int[n];
+            for (int i = 0; i < n; i++) {
+                arr[i] =
+                    Integer.parseInt(str1[i]); // Convert each element to an integer
+            }
+
+            // Second array input (dep)
+            String[] str2 = br.readLine().trim().split(
+                " "); // Read the second line and split by spaces
+            int m = str2.length;
+            int[] dep = new int[m];
+            for (int i = 0; i < m; i++) {
+                dep[i] =
+                    Integer.parseInt(str2[i]); // Convert each element to an integer
+            }
+
+            Solution obj = new Solution();
+            System.out.println(obj.findPlatform(arr, dep));
+            System.out.println("~");
         }
     }
-    
-    
 }
-
-
 
 // } Driver Code Ends
 
 
-//User function Template for Java
+// User function Template for Java
 
-class Solution
-{
-    //Function to find the minimum number of platforms required at the
-    //railway station such that no train waits.
-    static int findPlatform(int arr[], int dep[], int n)
-    {
+class Solution {
+    // Function to find the minimum number of platforms required at the
+    // railway station such that no train waits.
+    static int findPlatform(int arr[], int dep[]) {
+        // add your code here
         Arrays.sort(arr);
         Arrays.sort(dep);
-        int i=0;
-        int j=0;
-        int cnt=0,maxcnt=0;
-        n = arr.length;
-        while (i<n){
+
+        int n=arr.length;
+        int maxplatform=0;
+        int platformneeded=0;
+        int i=0,j=0;
+        while(i<n &&j<n){
             if(arr[i]<=dep[j]){
-                cnt++;
+                platformneeded++;
                 i++;
             }else{
-                cnt--;
+                platformneeded--;
                 j++;
             }
-            maxcnt = Math.max(cnt,maxcnt);
+            
+            maxplatform=Math.max(maxplatform,platformneeded);
         }
-        return maxcnt;
+        return maxplatform;
     }
-    
 }
-
