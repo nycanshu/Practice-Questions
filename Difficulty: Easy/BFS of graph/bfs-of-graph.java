@@ -1,59 +1,86 @@
 //{ Driver Code Starts
 // Initial Template for Java
-import java.util.*;
-import java.lang.*;
 import java.io.*;
+import java.util.*;
+
+
+// } Driver Code Ends
+
+// User function Template for Java
+class Solution {
+    // Function to return Breadth First Search Traversal of given graph.
+    public ArrayList<Integer> bfs(ArrayList<ArrayList<Integer>> adj) {
+        // code here
+        ArrayList<Integer> res = new ArrayList<>();
+        if(adj==null||adj.size()==0)
+        return res;
+        
+        int n = adj.size();
+        boolean[] vis = new boolean[n];
+        
+        for(int i=0;i<n;i++)
+        {
+            if(!vis[i])
+            bfsUtils(adj,i,vis,res);
+        }
+        return res;
+    }
+    private void bfsUtils(ArrayList<ArrayList<Integer>> adj,int source,
+    boolean[] vis,ArrayList<Integer> res)
+    {
+        ArrayDeque<Integer> q = new ArrayDeque<>();
+        q.offer(source);
+        vis[source] = true;
+        
+        while(!q.isEmpty())
+        {
+            Integer currNode = q.poll();
+            res.add(currNode);
+            
+            for(int neighbour:adj.get(currNode))
+            {
+                if(!vis[neighbour])
+                {
+                    q.offer(neighbour);
+                    vis[neighbour] = true;
+                }
+            }
+        }
+    }
+}
+
+
+//{ Driver Code Starts.
+
 class GFG {
     public static void main(String[] args) throws IOException {
-        BufferedReader br =
-            new BufferedReader(new InputStreamReader(System.in));
-        int T = Integer.parseInt(br.readLine().trim());
-        while (T-- > 0) {
-            String[] s = br.readLine().trim().split(" ");
-            int V = Integer.parseInt(s[0]);
-            int E = Integer.parseInt(s[1]);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int tc = Integer.parseInt(br.readLine().trim());
+
+        while (tc-- > 0) {
+            int V = Integer.parseInt(br.readLine().trim());
             ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-            for (int i = 0; i < V; i++) adj.add(i, new ArrayList<Integer>());
-            for (int i = 0; i < E; i++) {
-                String[] S = br.readLine().trim().split(" ");
-                int u = Integer.parseInt(S[0]);
-                int v = Integer.parseInt(S[1]);
-                adj.get(u).add(v);
-                // adj.get(v).add(u);
+
+            for (int i = 0; i < V; i++) {
+                String[] input = br.readLine().trim().split(" ");
+                ArrayList<Integer> node = new ArrayList<>();
+                for (String s : input) {
+                    if (!s.isEmpty()) {
+                        node.add(Integer.parseInt(s));
+                    }
+                }
+                adj.add(node);
             }
+
             Solution obj = new Solution();
-            ArrayList<Integer> ans = obj.bfsOfGraph(V, adj);
-            for (int i = 0; i < ans.size(); i++)
-                System.out.print(ans.get(i) + " ");
+            ArrayList<Integer> ans = obj.bfs(adj);
+            for (int num : ans) {
+                System.out.print(num + " ");
+            }
             System.out.println();
+            System.out.println("~");
         }
     }
 }
 
 // } Driver Code Ends
-
-
-class Solution {
-    // Function to return Breadth First Traversal of given graph.
-   public ArrayList<Integer> bfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj) {
-        // Code here
-        ArrayList<Integer> traversal = new ArrayList<>();
-        Queue<Integer> queue = new LinkedList<>();
-        int size = adj.size();
-        boolean[] visited = new boolean[size];
-        queue.add(0);
-        visited[0] = true;
-        while(!queue.isEmpty()){
-            int pop = queue.poll();
-            traversal.add(pop);
-            for(int i = 0 ; i < adj.get(pop).size() ; i++){
-                int current = adj.get(pop).get(i);
-                if(!traversal.contains(current) && visited[current] != true){
-                    queue.add(current);
-                    visited[current] = true;
-                }
-            }
-        }
-        return traversal;
-    }
-}
