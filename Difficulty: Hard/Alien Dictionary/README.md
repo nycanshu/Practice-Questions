@@ -1,13 +1,17 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/alien-dictionary/1">Alien Dictionary</a></h2><h3>Difficulty Level : Difficulty: Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a sorted dictionary of an alien language having N words and&nbsp;k starting alphabets of standard dictionary. Find the order of characters in the alien language.<br><strong>Note:</strong>&nbsp;Many orders may be&nbsp;possible for a particular test case, thus&nbsp;you may return any valid order and&nbsp;output will be 1 if the order of string returned by the function is correct else 0 denoting incorrect string returned.</span><br>&nbsp;</p>
-<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input:  </strong>N = 5, K = 4, dict = {"baa","abcd","abca","cab","cad"</span><span style="font-size: 18px;">}
-<strong>Output: </strong>1
-<strong>Explanation: </strong>Here order of characters is 'b', 'd', 'a', 'c' Note that words are sorted and in the given language "baa" comes before "abcd", therefore 'b' is before 'a' in output.
-Similarly we can find other orders.</span></pre>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>N = 3, K = 3, dict = {"caa","aaa","aab"}
-<strong>Output: </strong>1
-<strong>Explanation: </strong>Here order of characters is 'c', 'a', 'b' Note that words are sorted and in the given language "caa" comes before "aaa", therefore 'c' is before 'a' in output.
-Similarly we can find other orders.
-</span></pre>
-<p><span style="font-size: 18px;"><strong>Expected Time Complexity:&nbsp;</strong>O(N * |S| + K) , where |S| denotes maximum length.<br><strong>Expected Space Compelxity:&nbsp;</strong>O(K)</span></p>
-<p><br><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ N≤ 10<sup>4</sup><br>1 ≤ K&nbsp;≤ 26<br>1 ≤ Length of words&nbsp;≤ 50</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Flipkart</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>OYO Rooms</code>&nbsp;<code>Walmart</code>&nbsp;<code>Google</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;<code>Sorting</code>&nbsp;<code>Graph</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
+<h2><a href="https://www.geeksforgeeks.org/problems/alien-dictionary/1">Alien Dictionary</a></h2><h3>Difficulty Level : Difficulty: Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p>A new alien language uses the English alphabet, but the order of letters is unknown. You are given a list of <strong>words[] </strong>from the alien language’s dictionary, where the words are claimed to be <strong>sorted lexicographically</strong> according to the language’s rules.</p>
+<p>Your task is to <strong>determine the correct order of letters</strong> in this alien language based on the given words. If the order is valid, return a string containing the unique letters in lexicographically increasing order as per the new language's rules. If there are multiple valid orders, return any one of them.</p>
+<p>However, if the given arrangement of words is inconsistent with any possible letter ordering, return an <strong>empty string ("")</strong>.</p>
+<blockquote>
+<p>A string <strong>a</strong> is lexicographically smaller than a string <strong>b</strong> if, at the first position where they differ, the character in <strong>a</strong> appears earlier in the alien language than the corresponding character in <strong>b</strong>. If all characters in the shorter word match the beginning of the longer word, the shorter word is considered smaller.</p>
+</blockquote>
+<p>Your implementation will be tested using a driver code. It will print <strong>true </strong>if your returned order correctly follows the alien language’s lexicographic rules; otherwise, it will print <strong>false</strong>.</p>
+<p><strong>Examples:</strong></p>
+<pre><strong>Input:</strong> words[] = ["cb", "cba", "a", "bc"]<br><strong>Output:</strong> true<br><strong>Explanation: </strong>You need to return "cab" as the correct order of letters in the alien dictionary.</pre>
+<pre><strong>Input: </strong>words[] = ["ab", "aa", "a"]<br><strong>Output:</strong> ""<br><strong>Explanation:</strong> You need to return "" because "aa" is lexicographically larger than "a", making the order invalid.</pre>
+<pre><strong>Input:</strong> words[] = ["ab", "cd", "ef", "ad"]<br><strong>Output:</strong> ""<br><strong>Explanation:</strong> You need to return "" because "a" appears before "e", but then "e" appears before "a", which contradicts the ordering rules.</pre>
+<p><strong>Constraints:</strong></p>
+<ul>
+<li>1 &lt;= words.length &lt;= 500</li>
+<li>1 &lt;= words[i].length &lt;= 100</li>
+<li>words[i] consists only of lowercase English letters.</li>
+</ul></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Flipkart</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>OYO Rooms</code>&nbsp;<code>Walmart</code>&nbsp;<code>Google</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;<code>Sorting</code>&nbsp;<code>Graph</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
