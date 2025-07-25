@@ -1,64 +1,39 @@
-//{ Driver Code Starts
-import java.io.*;
-import java.util.*;
-
-class Sorting {
-    public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int t = Integer.parseInt(br.readLine());
-        for (int g = 0; g < t; g++) {
-            String[] str = (br.readLine()).trim().split(" ");
-            int arr[] = new int[str.length];
-            for (int i = 0; i < str.length; i++) arr[i] = Integer.parseInt(str[i]);
-            System.out.println(new Solution().circularSubarraySum(arr));
-            // System.out.println("~");
-        }
-    }
-}
-// } Driver Code Ends
-
-
 class Solution {
-
-    // a: input array
-    // n: size of array
-    // Function to find maximum circular subarray sum.
-    // Kadane's algorithm to find maximum subarray sum
-    static int kadane(int[] arr) {
-        int maxSoFar = arr[0];
-        int maxEndingHere = arr[0];
-        
-        for (int i = 1; i < arr.length; i++) {
-            maxEndingHere = Math.max(arr[i], maxEndingHere + arr[i]);
-            maxSoFar = Math.max(maxSoFar, maxEndingHere);
-        }
-        
-        return maxSoFar;
-    }
-    
-    
-    public int circularSubarraySum(int arr[]) {
-
-        // Your code here
+    public int maxCircularSum(int arr[]) {
         int n = arr.length;
-        
-        // Case 1: Maximum sum using standard Kadane's algorithm
-        int maxKadane = kadane(arr);
-        
-        // Case 2: Maximum sum in circular configuration
-        int totalSum = 0;
+
+        // Step 1: Standard Kadane’s algorithm to find max subarray sum
+        int max_kadane = kadane(arr);
+
+        // Step 2: Total sum of the array
+        int total_sum = 0;
         for (int i = 0; i < n; i++) {
-            totalSum += arr[i];
-            arr[i] = -arr[i]; // Invert the array
+            total_sum += arr[i];
+            arr[i] = -arr[i]; // Invert the elements to find min subarray sum
         }
-        
-        int maxCircular = totalSum + kadane(arr);
-        
-        // If all elements are negative, maxCircular will be 0
-        if (maxCircular > 0) {
-            return Math.max(maxKadane, maxCircular);
-        } else {
-            return maxKadane;
+
+        // Step 3: Find min subarray sum using Kadane on inverted array
+        int max_inverse_kadane = kadane(arr); // Actually gives -min subarray sum
+        int max_circular = total_sum + max_inverse_kadane;
+
+        // Step 4: Handle case when all numbers are negative
+        if (max_circular == 0)
+            return max_kadane;
+
+        // Step 5: Return the maximum of two results
+        return Math.max(max_kadane, max_circular);
+    }
+
+    // Standard Kadane’s algorithm to find max subarray sum
+    private int kadane(int[] arr) {
+        int max_so_far = arr[0];
+        int current_max = arr[0];
+
+        for (int i = 1; i < arr.length; i++) {
+            current_max = Math.max(arr[i], current_max + arr[i]);
+            max_so_far = Math.max(max_so_far, current_max);
         }
+
+        return max_so_far;
     }
 }
