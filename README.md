@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
+| [3110-score-of-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
