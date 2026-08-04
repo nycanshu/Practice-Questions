@@ -11,6 +11,7 @@ class Solution {
                     if(words[j].contains(words[i])){
                         if(!ans.contains(words[i])){
                             ans.add(words[i]);
+                            break;
                         }
                     }
                 }
