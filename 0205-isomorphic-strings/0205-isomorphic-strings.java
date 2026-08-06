@@ -4,33 +4,23 @@ class Solution {
         if (s.length() != t.length())
             return false;
 
-        HashMap<Character, Character> sTot = new HashMap<>();
-        HashMap<Character, Character> tTos = new HashMap<>();
+        // Stores the last seen position (index + 1) of each character.
+        int[] lastSeenInSource = new int[256];
+        int[] lastSeenInTarget = new int[256];
 
-        for (int i = 0; i < s.length(); i++) {
+        for (int index = 0; index < s.length(); index++) {
 
-            char ch1 = s.charAt(i);
-            char ch2 = t.charAt(i);
+            char sourceChar = s.charAt(index);
+            char targetChar = t.charAt(index);
 
-            if (sTot.containsKey(ch1)) {
-                if (sTot.get(ch1) != ch2) {
-                    return false;
-                }
-            } else {
-
-                sTot.put(ch1, ch2);
+            // The history of both characters must match.
+            if (lastSeenInSource[sourceChar] != lastSeenInTarget[targetChar]) {
+                return false;
             }
 
-            //same same logic to now tTos map
-
-            if (tTos.containsKey(ch2)) {
-                if (tTos.get(ch2) != ch1) {
-                    return false;
-                }
-            } else {
-                tTos.put(ch2, ch1);
-            }
-
+            // Record that we saw both characters at this position.
+            lastSeenInSource[sourceChar] = index + 1;
+            lastSeenInTarget[targetChar] = index + 1;
         }
 
         return true;
