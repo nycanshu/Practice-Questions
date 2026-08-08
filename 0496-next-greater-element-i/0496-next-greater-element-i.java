@@ -1,27 +1,34 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        int[] nextGreater = new int[10001];
 
-        HashMap<Integer,Integer> hm = new HashMap<>();
+        Stack<Integer> stack = new Stack<>();
+        
+        int n1= nums1.length;
+        int n2 = nums2.length;
 
-        for(int i=0;i<nums2.length;i++){
+        //traverse from last 
+        for(int i=n2-1; i>=0 ; i-- ){
 
-            int greater = -1;
-            for(int j=i+1;j<nums2.length;j++){
-                
-                if(nums2[j]> nums2[i]){
-                    greater = nums2[j];
-                    break;
-                }
+            //remove the elements from stack if the stach.pop is less than curr element
+            while( !stack.isEmpty() && stack.peek() <= nums2[i]){
+                stack.pop();
             }
-            hm.put(nums2[i],greater);
+
+            //if not empty means we got the nearnest greater as peek only
+            nextGreater[nums2[i]] = stack.isEmpty() ? -1 : stack.peek();
+
+            //push the current as max now
+            stack.push(nums2[i]);
+
         }
 
-        int[] ans = new int[nums1.length];
-
+        //override nums[i] with nextGreater arrays
         for(int i=0;i<nums1.length;i++){
-            ans[i] = hm.get(nums1[i]);
+            nums1[i] = nextGreater[nums1[i]];
         }
 
-        return ans;
+        return nums1;
     }
+
 }
