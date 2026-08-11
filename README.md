@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nycanshu/Practice-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nycanshu/Practice-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nycanshu/Practice-Questions/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
