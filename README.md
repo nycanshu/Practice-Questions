@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/nycanshu/Practice-Questions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/nycanshu/Practice-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/nycanshu/Practice-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nycanshu/Practice-Questions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/nycanshu/Practice-Questions/tree/master/0605-can-place-flowers) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nycanshu/Practice-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nycanshu/Practice-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nycanshu/Practice-Questions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
