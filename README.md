@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/nycanshu/Practice-Questions/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
+| [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nycanshu/Practice-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nycanshu/Practice-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -128,4 +130,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/nycanshu/Practice-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nycanshu/Practice-Questions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
