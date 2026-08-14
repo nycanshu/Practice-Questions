@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nycanshu/Practice-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nycanshu/Practice-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nycanshu/Practice-Questions/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
