@@ -3,7 +3,7 @@ class Solution {
 
         String[] words = s.split(" ");
 
-        if(pattern.length() != words.length)
+        if (pattern.length() != words.length)
             return false;
 
         Map<Object, Integer> map = new HashMap<>();
@@ -34,11 +34,13 @@ class Solution {
          * We use Map<Object, Integer> so that both Character and String
          * keys can be stored in the same map.
          */
-        for(int i = 0; i < pattern.length(); i++) {
-            if(!Objects.equals(
-                    map.put(pattern.charAt(i), i),
-                    map.put(words[i], i)
-            )) {
+        for (int i = 0; i < pattern.length(); i++) {
+
+            Integer prevCharIndex = map.put(pattern.charAt(i), i);
+
+            Integer prevWordIndex = map.put(words[i], i);
+
+            if (!Objects.equals(prevCharIndex, prevWordIndex)) {
                 return false;
             }
         }
