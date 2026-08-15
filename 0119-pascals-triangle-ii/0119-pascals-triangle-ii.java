@@ -1,28 +1,26 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
 
-        int[][] pascal = new int[rowIndex + 1][rowIndex + 1];
+        List<Integer> row = new ArrayList<>();
 
-        for (int i = 0; i <= rowIndex; i++) {
+        // Every Pascal row starts with 1
+        row.add(1);
 
-            // First and last element of every row
-            pascal[i][0] = 1;
-            pascal[i][i] = 1;
+        // Build each next row
+        for (int currentRow = 1; currentRow <= rowIndex; currentRow++) {
 
-            // Calculate middle elements
-            for (int j = 1; j < i; j++) {
-                pascal[i][j] =
-                    pascal[i - 1][j - 1] +
-                    pascal[i - 1][j];
+            // Every Pascal row ends with 1
+            row.add(1);
+
+            // Update middle elements from right to left
+            for (int position = currentRow - 1; position > 0; position--) {
+                row.set(
+                    position,
+                    row.get(position - 1) + row.get(position)
+                );
             }
         }
 
-        List<Integer> result = new ArrayList<>();
-
-        for (int j = 0; j <= rowIndex; j++) {
-            result.add(pascal[rowIndex][j]);
-        }
-
-        return result;
+        return row;
     }
 }
