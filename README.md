@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nycanshu/Practice-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3151-special-array-i](https://github.com/nycanshu/Practice-Questions/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
