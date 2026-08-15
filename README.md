@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/nycanshu/Practice-Questions/tree/master/0605-can-place-flowers) |
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/nycanshu/Practice-Questions/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/nycanshu/Practice-Questions/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nycanshu/Practice-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
