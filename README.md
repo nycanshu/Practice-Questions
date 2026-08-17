@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/3110-score-of-a-string) |
