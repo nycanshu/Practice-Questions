@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/nycanshu/Practice-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/nycanshu/Practice-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nycanshu/Practice-Questions/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/nycanshu/Practice-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
