@@ -10,8 +10,8 @@ class Solution {
 
         int result = 0;
         for( String word : words){
-            int[] temp = allowedArr.clone();
-            if(canBeFormed(temp, word)){
+            //int[] temp = allowedArr.clone();
+            if(canBeFormed(allowedArr, word)){
                 result ++;
             }
         }
