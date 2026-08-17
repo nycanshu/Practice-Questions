@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nycanshu/Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nycanshu/Practice-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-string-matching-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nycanshu/Practice-Questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/nycanshu/Practice-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -172,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
