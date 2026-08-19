@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nycanshu/Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nycanshu/Practice-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String
 |  |
 | ------- |
@@ -182,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
