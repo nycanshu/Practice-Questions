@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nycanshu/Practice-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nycanshu/Practice-Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nycanshu/Practice-Questions/tree/master/0496-next-greater-element-i) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nycanshu/Practice-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nycanshu/Practice-Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nycanshu/Practice-Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/nycanshu/Practice-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -191,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
