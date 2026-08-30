@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nycanshu/Practice-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nycanshu/Practice-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/nycanshu/Practice-Questions/tree/master/0605-can-place-flowers) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nycanshu/Practice-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
 | ------- |
