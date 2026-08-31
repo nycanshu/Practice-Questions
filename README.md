@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nycanshu/Practice-Questions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-path-crossing](https://github.com/nycanshu/Practice-Questions/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nycanshu/Practice-Questions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nycanshu/Practice-Questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2490-circular-sentence](https://github.com/nycanshu/Practice-Questions/tree/master/2490-circular-sentence) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nycanshu/Practice-Questions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
