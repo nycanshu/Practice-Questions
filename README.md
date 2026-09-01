@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nycanshu/Practice-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/nycanshu/Practice-Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nycanshu/Practice-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/nycanshu/Practice-Questions/tree/master/3151-special-array-i) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nycanshu/Practice-Questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2490-circular-sentence](https://github.com/nycanshu/Practice-Questions/tree/master/2490-circular-sentence) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/nycanshu/Practice-Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nycanshu/Practice-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/nycanshu/Practice-Questions/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/nycanshu/Practice-Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Counting Sort
 |  |
 | ------- |
