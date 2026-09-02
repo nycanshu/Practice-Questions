@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nycanshu/Practice-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/nycanshu/Practice-Questions/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/nycanshu/Practice-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String
 |  |
@@ -195,10 +198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quicksort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Queue
 |  |
