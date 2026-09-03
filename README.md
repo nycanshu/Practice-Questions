@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/nycanshu/Practice-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/nycanshu/Practice-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/nycanshu/Practice-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nycanshu/Practice-Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nycanshu/Practice-Questions/tree/master/0383-ransom-note) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/nycanshu/Practice-Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nycanshu/Practice-Questions/tree/master/1122-relative-sort-array) |
@@ -207,11 +210,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 ## Quicksort
 |  |
@@ -225,5 +230,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
