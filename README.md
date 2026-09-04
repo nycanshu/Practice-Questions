@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nycanshu/Practice-Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/nycanshu/Practice-Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nycanshu/Practice-Questions/tree/master/0205-isomorphic-strings) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nycanshu/Practice-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/nycanshu/Practice-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nycanshu/Practice-Questions/tree/master/0058-length-of-last-word) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nycanshu/Practice-Questions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 ## Quicksort
