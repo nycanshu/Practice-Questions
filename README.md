@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/nycanshu/Practice-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nycanshu/Practice-Questions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nycanshu/Practice-Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/nycanshu/Practice-Questions/tree/master/0118-pascals-triangle) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nycanshu/Practice-Questions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
