@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nycanshu/Practice-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nycanshu/Practice-Questions/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nycanshu/Practice-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/nycanshu/Practice-Questions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/nycanshu/Practice-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/nycanshu/Practice-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/nycanshu/Practice-Questions/tree/master/1768-merge-strings-alternately) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nycanshu/Practice-Questions/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -255,4 +258,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
