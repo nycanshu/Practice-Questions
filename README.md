@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/nycanshu/Practice-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nycanshu/Practice-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nycanshu/Practice-Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/nycanshu/Practice-Questions/tree/master/2678-number-of-senior-citizens) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/nycanshu/Practice-Questions/tree/master/1768-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nycanshu/Practice-Questions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nycanshu/Practice-Questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2490-circular-sentence](https://github.com/nycanshu/Practice-Questions/tree/master/2490-circular-sentence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nycanshu/Practice-Questions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/nycanshu/Practice-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/nycanshu/Practice-Questions/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/2109-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -266,4 +269,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
+| [2109-adding-spaces-to-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
