@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/nycanshu/Practice-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nycanshu/Practice-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/nycanshu/Practice-Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/nycanshu/Practice-Questions/tree/master/0303-range-sum-query-immutable) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nycanshu/Practice-Questions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/nycanshu/Practice-Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nycanshu/Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nycanshu/Practice-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/nycanshu/Practice-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nycanshu/Practice-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nycanshu/Practice-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nycanshu/Practice-Questions/tree/master/0290-word-pattern) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nycanshu/Practice-Questions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/nycanshu/Practice-Questions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/nycanshu/Practice-Questions/tree/master/0680-valid-palindrome-ii) |
