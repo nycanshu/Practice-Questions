@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nycanshu/Practice-Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/nycanshu/Practice-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nycanshu/Practice-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nycanshu/Practice-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nycanshu/Practice-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nycanshu/Practice-Questions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/nycanshu/Practice-Questions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 ## Quicksort
