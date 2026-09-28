@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/nycanshu/Practice-Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/nycanshu/Practice-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/nycanshu/Practice-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/1512-number-of-good-pairs) |
 ## Quicksort
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nycanshu/Practice-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nycanshu/Practice-Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
@@ -287,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2460-apply-operations-to-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nycanshu/Practice-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
