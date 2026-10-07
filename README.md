@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/nycanshu/Practice-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nycanshu/Practice-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nycanshu/Practice-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nycanshu/Practice-Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nycanshu/Practice-Questions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nycanshu/Practice-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nycanshu/Practice-Questions/tree/master/0205-isomorphic-strings) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nycanshu/Practice-Questions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nycanshu/Practice-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nycanshu/Practice-Questions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/nycanshu/Practice-Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/nycanshu/Practice-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nycanshu/Practice-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nycanshu/Practice-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nycanshu/Practice-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nycanshu/Practice-Questions/tree/master/0268-missing-number) |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nycanshu/Practice-Questions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/nycanshu/Practice-Questions/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/nycanshu/Practice-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/nycanshu/Practice-Questions/tree/master/2460-apply-operations-to-an-array) |
